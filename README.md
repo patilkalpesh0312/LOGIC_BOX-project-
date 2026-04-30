@@ -31,9 +31,7 @@ This project provides two main functionalities:
 - 💻 Programming Language: (language used is python  )  
 - 🧠 Basic Programming Concepts  
 
----
-
-## ▶️ How to Run
+----
 
 ----------------------------
 
